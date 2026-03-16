@@ -3,7 +3,7 @@ I build products
 
 What I'm working on
 - 🔭VibeLoom - Contract-driven methodology for AI coding https://vibeloom.ai - scales to multi-person teams and large code bases w/o drift and decay
-- ⚙️Office Resume - no, not a CV 😎 https://officeresume.com is just a "resume" capability that every other macOS application has. Now Microsoft Office, too. |
+- ⚙️Office Resume - no, not a CV 😎 https://officeresume.com (will be ready soon) is just a "resume" capability that every other macOS application has. Now Microsoft Office, too. |
 - 🤖FocalPoint - an AI co-pilot for micro-business owners. A lerge-scale "dogfood" test for VibeLoom
 
 📫The easiest way to reach me is a message on LinkedIn
