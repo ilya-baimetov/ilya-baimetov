@@ -1,13 +1,12 @@
 # Hi, I'm Ilya 👋
 I build products
 
-My own AI coding methodology - https://vibeloom.ai - scales to multi-person teams and large code bases w/o drift and decay
-Drop me a note if you are interested.
-
 What I'm working on
-| AI coding methodology | (VibeLoom)[https://vibeloom.ai] |
-| Office Resume | nothing to do with CV, it's an application "resume" capability that every other macOS application has. Now Microsoft Office, too. |
+- 🔭VibeLoom - Contract-driven methodology for AI coding https://vibeloom.ai - scales to multi-person teams and large code bases w/o drift and decay
+- ⚙️Office Resume - no, not a CV 😎 https://officeresume.com is just a "resume" capability that every other macOS application has. Now Microsoft Office, too. |
+- 🤖FocalPoint - an AI co-pilot for micro-business owners. A lerge-scale "dogfood" test for VibeLoom
 
+📫The easiest way to reach me is a message on LinkedIn
 
 <!--
 **ilya-baimetov/ilya-baimetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
