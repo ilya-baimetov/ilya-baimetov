@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ilya 👋
+I build products
+
+My own AI coding methodology - https://vibeloom.ai - scales to multi-person teams and large code bases w/o drift and decay
+Drop me a note if you are interested.
+
+What I'm working on
+| AI coding methodology | (VibeLoom)[https://vibeloom.ai] |
+| Office Resume | nothing to do with CV, it's an application "resume" capability that every other macOS application has. Now Microsoft Office, too. |
+
 
 <!--
 **ilya-baimetov/ilya-baimetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
